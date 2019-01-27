@@ -11,6 +11,7 @@ pendant :
 
 - accueil
   - gérer la connexion internet
+  - préparer le matériel (tables, chaises, etc.)
 - ouverture
 - patouille
   - que faire pendant les patouilles ?
